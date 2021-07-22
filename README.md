@@ -6,3 +6,5 @@ PullPhotoLicor.R provides the code to pull out the Photo (the C-flux data) line 
 
 
 Transect info.R provides the code for calculating % cover from site transects and was written when I was just starting out with R. So the code is a bit inelegant. 
+
+     - AllTheTransects0.csv contains the transect data
