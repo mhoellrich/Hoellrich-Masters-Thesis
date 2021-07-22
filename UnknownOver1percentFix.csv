@@ -1,0 +1,309 @@
+OTU,SITE,Type,Abundance,Class,Order,Family,Genus,Species
+ASV103,JER,MO,0.01577802, Cyanobacteriia,Oscillatoriales, Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV103,JER,CL,0.011105586, Cyanobacteriia,Oscillatoriales, Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV103,JER,LA,0.010140585, Cyanobacteriia,Oscillatoriales, Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV103,WHS,MO,0.038506147, Cyanobacteriia,Oscillatoriales, Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV103,WHS,PT,0.034323985, Cyanobacteriia,Oscillatoriales, Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV103,WHS,CL,0.033223277, Cyanobacteriia,Oscillatoriales, Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV103,WHS,LA,0.024727111, Cyanobacteriia,Oscillatoriales, Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV103,WHS,DA,0.023678161, Cyanobacteriia,Oscillatoriales, Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV109,AMT,MO,0.03575184, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,AMT,LA,0.012444632, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,AMT,PT,0.010915571, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,JER,MO,0.033732318, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,JER,DA,0.018483232, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,JER,LA,0.017285089, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,JER,CL,0.014089176, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,JER,PT,0.010289, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,VOL,MO,0.038157895, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,VOL,LA,0.014218972, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,VOL,PT,0.010858835, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,VOL,DA,0.010623229, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV109,WHS,LA,0.010024504, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV112,VOL,PT,0.017769003, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SEV30)
+ASV112,VOL,LA,0.013812716, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SEV30)
+ASV112,VOL,CL,0.012987013, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SEV30)
+ASV112,VOL,DA,0.011508499, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SEV30)
+ASV112,VOL,MO,0.010789474, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SEV30)
+ASV1133,WHS,MO,0.026443981, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV120,AMT,LA,0.063488715, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV120,AMT,PT,0.029182446, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV120,AMT,MO,0.028391167, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV120,AMT,CL,0.024390244, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV120,AMT,DA,0.021175539, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV120,VOL,LA,0.071907374, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV120,VOL,CL,0.070819805, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV120,VOL,DA,0.055771955, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV120,VOL,PT,0.035340573, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV120,VOL,MO,0.015263158, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV1254,VOL,MO,0.023421053, Cyanobacteriia,Nostocales,Scytonemataceae,Scytonema,Scytonema sp. 
+ASV129,JER,MO,0.023032281, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Coleofasciculus,Coleofasciculus cf chthonoplastes
+ASV129,JER,DA,0.020960366, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Coleofasciculus,Coleofasciculus cf chthonoplastes
+ASV129,JER,LA,0.019359299, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Coleofasciculus,Coleofasciculus cf chthonoplastes
+ASV129,WHS,LA,0.035865449, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Coleofasciculus,Coleofasciculus cf chthonoplastes
+ASV129,WHS,DA,0.026896552, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Coleofasciculus,Coleofasciculus cf chthonoplastes
+ASV129,WHS,CL,0.020222864, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Coleofasciculus,Coleofasciculus cf chthonoplastes
+ASV129,WHS,PT,0.018836333, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Coleofasciculus,Coleofasciculus cf chthonoplastes
+ASV129,WHS,MO,0.012758061, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Coleofasciculus,Coleofasciculus cf chthonoplastes
+ASV13,AMT,DA,0.13536513, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,AMT,PT,0.106259746, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,AMT,CL,0.103135889, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,AMT,LA,0.100400759, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,AMT,MO,0.082018927, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,JER,MO,0.066013783, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,JER,PT,0.057648661, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,JER,DA,0.056783537, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,JER,CL,0.052875849, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,JER,LA,0.050241991, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,WHS,MO,0.042449548, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,WHS,PT,0.031603181, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,WHS,DA,0.031494253, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,WHS,LA,0.028514146, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV13,WHS,CL,0.025588114, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV1311,VOL,MO,0.011315789, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Aerosakkonema)
+ASV137,AMT,MO,0.064931651, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV137,AMT,CL,0.041347271, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV137,AMT,PT,0.03853865, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV137,AMT,DA,0.025331486, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV137,AMT,LA,0.022147226, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV137,JER,MO,0.068371418, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV137,JER,DA,0.051448171, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV137,JER,CL,0.044588099, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV137,JER,LA,0.03964047, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV137,JER,PT,0.039491602, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV139,AMT,PT,0.03853865, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV139,AMT,CL,0.031591173, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV139,AMT,DA,0.025331486, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV139,AMT,MO,0.012092534, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV139,AMT,LA,0.011811854, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV139,VOL,DA,0.016111898, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV139,VOL,PT,0.015992103, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV139,VOL,LA,0.015031485, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV151,WHS,LA,0.151258632, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV151,WHS,DA,0.148275862, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV151,WHS,PT,0.10422771, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV151,WHS,CL,0.101320677, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV151,WHS,MO,0.091626073, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV180,AMT,CL,0.043902439, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Phormidium,Phormidium sp. 
+ASV180,AMT,PT,0.010692805, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Phormidium,Phormidium sp. 
+ASV180,JER,MO,0.017228872, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Phormidium,Phormidium sp. 
+ASV180,JER,DA,0.010289634, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Phormidium,Phormidium sp. 
+ASV180,VOL,MO,0.018157895, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Phormidium,Phormidium sp. 
+ASV180,VOL,CL,0.01461039, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Phormidium,Phormidium sp. 
+ASV180,VOL,DA,0.010977337, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Phormidium,Phormidium sp. 
+ASV20,AMT,CL,0.031358885, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV20,AMT,DA,0.029289531, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV20,AMT,PT,0.028068612, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV20,JER,CL,0.030830433, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV20,JER,PT,0.019972764, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV20,JER,DA,0.019817073, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV20,JER,LA,0.016363217, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV20,VOL,DA,0.162358357, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV20,VOL,PT,0.130108588, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV20,VOL,CL,0.098011364, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV20,VOL,LA,0.079626244, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV202,JER,MO,0.019042437, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Microcoleus paludosus)
+ASV202,JER,LA,0.016132749, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Microcoleus paludosus)
+ASV202,JER,CL,0.011602851, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Microcoleus paludosus)
+ASV202,WHS,MO,0.015309673, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Microcoleus paludosus)
+ASV202,WHS,LA,0.010024504, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Microcoleus paludosus)
+ASV21,JER,MO,0.104461371, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV21,JER,CL,0.101773579, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV21,JER,PT,0.080798911, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV21,JER,DA,0.071265244, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV21,JER,LA,0.056234155, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV21,WHS,MO,0.202505219, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV21,WHS,CL,0.188815518, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV21,WHS,PT,0.172666388, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV21,WHS,LA,0.149699265, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV21,WHS,DA,0.148735632, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV210,VOL,CL,0.04788961, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV210,VOL,MO,0.035526316, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV210,VOL,PT,0.028430405, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV210,VOL,DA,0.027620397, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV210,VOL,LA,0.024781637, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV224,AMT,MO,0.0223449, Cyanobacteriia,Synechococcales,Leptolyngbyaceae,Leptolyngbya,Leptolyngbya crispata
+ASV224,AMT,CL,0.014401858, Cyanobacteriia,Synechococcales,Leptolyngbyaceae,Leptolyngbya,Leptolyngbya crispata
+ASV224,AMT,DA,0.011082525, Cyanobacteriia,Synechococcales,Leptolyngbyaceae,Leptolyngbya,Leptolyngbya crispata
+ASV224,JER,MO,0.015052593, Cyanobacteriia,Synechococcales,Leptolyngbyaceae,Leptolyngbya,Leptolyngbya crispata
+ASV255,WHS,LA,0.012029405, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (CMT-2BRIN-NPHLC14)
+ASV28,AMT,DA,0.087472788, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,AMT,PT,0.04611272, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,AMT,CL,0.045063879, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,AMT,MO,0.042586751, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,JER,DA,0.073932927, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,JER,LA,0.056464623, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,JER,PT,0.05386594, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,JER,CL,0.039781203, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,JER,MO,0.02575263, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,VOL,DA,0.049752125, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,VOL,LA,0.043063173, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,VOL,CL,0.03612013, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV28,VOL,PT,0.014610069, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV312,JER,CL,0.017901542, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV312,JER,PT,0.014676956, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Symplocastrum,Symplocastrum sp.
+ASV32,AMT,CL,0.149593496, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,AMT,PT,0.125863221, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,AMT,LA,0.125500949, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,AMT,DA,0.121907778, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,AMT,MO,0.101997897, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,JER,CL,0.189292226, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,JER,DA,0.16882622, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,JER,MO,0.16177004, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,JER,PT,0.153275836, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,JER,LA,0.15003457, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,VOL,PT,0.091806515, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,VOL,CL,0.06838474, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,VOL,MO,0.042368421, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,VOL,DA,0.03842068, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV32,VOL,LA,0.033719277, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 60)
+ASV326,VOL,CL,0.032873377, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV326,VOL,MO,0.031052632, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV326,VOL,PT,0.029417572, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV326,VOL,LA,0.020719074, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV326,VOL,DA,0.019652975, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV334,WHS,CL,0.030953364, Cyanobacteriia,Synechococcales,Oculatellaceae,Trichotorquatus,Trichotorquatus sp.
+ASV334,WHS,PT,0.018417748, Cyanobacteriia,Synechococcales,Oculatellaceae,Trichotorquatus,Trichotorquatus sp.
+ASV334,WHS,MO,0.012758061, Cyanobacteriia,Synechococcales,Oculatellaceae,Trichotorquatus,Trichotorquatus sp.
+ASV334,WHS,LA,0.010692805, Cyanobacteriia,Synechococcales,Oculatellaceae,Trichotorquatus,Trichotorquatus sp.
+ASV361,JER,CL,0.013260401, Cyanobacteriia,Nostocales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV361,JER,LA,0.012445264, Cyanobacteriia,Nostocales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV361,JER,PT,0.011650779, Cyanobacteriia,Nostocales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV361,JER,MO,0.010700036, Cyanobacteriia,Nostocales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV381,AMT,MO,0.011829653, Cyanobacteriia,Unclassified coocoid order,unclassified coccoid cyanobacterium,unclassified coccoid cyanobacterium,unclassified coccoid cyanobacterium
+ASV381,JER,MO,0.017410229, Cyanobacteriia,Unclassified coocoid order,unclassified coccoid cyanobacterium,unclassified coccoid cyanobacterium,unclassified coccoid cyanobacterium
+ASV381,JER,DA,0.011242378, Cyanobacteriia,Unclassified coocoid order,unclassified coccoid cyanobacterium,unclassified coccoid cyanobacterium,unclassified coccoid cyanobacterium
+ASV381,VOL,MO,0.012894737, Cyanobacteriia,Unclassified coocoid order,unclassified coccoid cyanobacterium,unclassified coccoid cyanobacterium,unclassified coccoid cyanobacterium
+ASV41,VOL,MO,0.085526316, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV41,VOL,LA,0.061954093, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV41,VOL,PT,0.051135242, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV41,VOL,CL,0.046875, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV41,VOL,DA,0.040545326, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV434,WHS,DA,0.026896552, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV434,WHS,LA,0.021831143, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV434,WHS,PT,0.012557555, Cyanobacteriia,Oscillatoriales,Phormidiaceae,Potamolinea,Potamolinea sp.
+ASV50,VOL,DA,0.091005666, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV50,VOL,PT,0.079565647, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV50,VOL,LA,0.060329068, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV50,VOL,CL,0.050324675, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV50,VOL,MO,0.031842105, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Pycnacronema,Pycnacronema sp.
+ASV54,AMT,LA,0.051465935, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,AMT,DA,0.039580447, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,AMT,PT,0.020494542, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,AMT,CL,0.010220674, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,VOL,DA,0.055949008, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,VOL,LA,0.027625432, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,VOL,PT,0.017769003, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,VOL,CL,0.015625, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,WHS,DA,0.063448276, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,WHS,LA,0.043885052, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,WHS,PT,0.029719548, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,WHS,MO,0.02203665, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV54,WHS,CL,0.019810153, Cyanobacteriia, Cyanobacteriales,Scytonemataceae,Scytonema, Scytonema_hyalinum
+ASV556,VOL,LA,0.010562665, Cyanobacteriia,Oscillatoriales,Microcoleaceae,Microcoleus,Microcoleus vaginatus
+ASV57,AMT,MO,0.129600421, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Phormidium,Phormidium chlorinum
+ASV57,AMT,LA,0.104408353, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Phormidium,Phormidium chlorinum
+ASV57,AMT,DA,0.095388878, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Phormidium,Phormidium chlorinum
+ASV57,AMT,CL,0.091289199, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Phormidium,Phormidium chlorinum
+ASV57,AMT,PT,0.076854533, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,Phormidium,Phormidium chlorinum
+ASV6,AMT,MO,0.097266036, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,AMT,PT,0.080641568, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,AMT,LA,0.076987977, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,AMT,CL,0.07456446, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,AMT,DA,0.073817534, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,JER,MO,0.096481683, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,JER,CL,0.073263716, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,JER,DA,0.072599085, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,JER,LA,0.062917723, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,JER,PT,0.054925102, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,VOL,CL,0.038352273, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,VOL,PT,0.034945706, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,VOL,MO,0.034473684, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,VOL,LA,0.033313021, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,VOL,DA,0.025141643, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,WHS,MO,0.069125493, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,WHS,LA,0.055691691, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,WHS,PT,0.05253244, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,WHS,CL,0.043334709, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV6,WHS,DA,0.031724138, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 57)
+ASV690,VOL,CL,0.017045455, Cyanobacteriia,Synechococcales,Leptolyngbyaceae,Chroakolemma,Chroakolemma sp.
+ASV72,AMT,PT,0.037424816, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,AMT,CL,0.029732869, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,AMT,LA,0.02299093, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,AMT,DA,0.021769246, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,AMT,MO,0.020504732, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,JER,PT,0.12195491, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,JER,LA,0.045863102, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,JER,CL,0.033814023, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,JER,DA,0.028391768, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,JER,MO,0.02575263, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,WHS,PT,0.076391796, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,WHS,CL,0.056954189, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,WHS,DA,0.054482759, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,WHS,LA,0.04544442, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV72,WHS,MO,0.028763628, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain CYAN3)
+ASV74,AMT,MO,0.052313354, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,AMT,LA,0.04598186, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,AMT,DA,0.039778349, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,AMT,CL,0.023461092, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,AMT,PT,0.017153041, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,JER,CL,0.039449693, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,JER,PT,0.030261764, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,JER,DA,0.019817073, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,JER,MO,0.018135655, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,JER,LA,0.016363217, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,VOL,CL,0.02637987, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,WHS,LA,0.022276676, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,WHS,DA,0.02045977, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,WHS,PT,0.0169527, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV74,WHS,CL,0.01361948, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV80,AMT,PT,0.05301849, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,AMT,MO,0.043112513, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,AMT,CL,0.036933798, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,AMT,LA,0.034591858, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,AMT,DA,0.028695824, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,JER,CL,0.044256589, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,JER,MO,0.037359449, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,JER,DA,0.035251524, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,JER,PT,0.034347102, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,JER,LA,0.032265499, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,VOL,PT,0.052319842, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,VOL,MO,0.051052632, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,VOL,CL,0.039366883, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,VOL,LA,0.03453179, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV80,VOL,DA,0.027443343, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV82,WHS,CL,0.109162196, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV82,WHS,MO,0.106471816, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV82,WHS,PT,0.102344077, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV82,WHS,LA,0.082200936, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV82,WHS,DA,0.062528736, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV840,AMT,PT,0.045667186, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Geitlerinema)
+ASV840,AMT,MO,0.013669821, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Geitlerinema)
+ASV840,AMT,CL,0.011614402, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Geitlerinema)
+ASV840,AMT,LA,0.011179076, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Geitlerinema)
+ASV87,AMT,LA,0.035646488, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,AMT,DA,0.021175539, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,AMT,CL,0.020441347, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,AMT,PT,0.018266875, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,AMT,MO,0.011829653, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,JER,LA,0.076976262, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,JER,DA,0.027820122, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,JER,PT,0.016795279, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,JER,MO,0.016684802, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,JER,CL,0.016078236, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,VOL,LA,0.038188097, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,VOL,DA,0.031338527, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,VOL,CL,0.019683442, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,VOL,PT,0.016189536, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV87,WHS,MO,0.012294131, Cyanobacteriia,Synechococcales,Trichocoleusaceae,Trichocoleus, Trichocoleus_desertorum
+ASV904,VOL,DA,0.010800283, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV904,VOL,LA,0.010765793, Cyanobacteriia,Synechococcales,Oculatellaceae,unclassified Oculatellaceae cyanobacterium,unclassified Oculatellaceae cyanobacterium
+ASV909,WHS,MO,0.019948968, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV909,WHS,LA,0.011806638, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV909,WHS,PT,0.011511093, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV954,AMT,MO,0.016561514, Cyanobacteriia,Nostocales,Tolypothrichaceae,Hassallia,Hassallia sp. 
+ASV98,WHS,CL,0.174164259, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV98,WHS,MO,0.155648341, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV98,WHS,PT,0.153830054, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV98,WHS,LA,0.143239029, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)
+ASV98,WHS,DA,0.138850575, Cyanobacteriia,Oscillatoriales,Coleofasciculaceae,unclassified Coleofasciculaceae cyanobacterium,unclassified Coleofasciculaceae cyanobacterium (Strain SON 59)

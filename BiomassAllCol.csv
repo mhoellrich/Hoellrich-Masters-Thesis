@@ -1,0 +1,401 @@
+Site,Type,Biomass,Amount,Percent
+AMT,LA,GramPosBiomass,115.9,7.87
+AMT,LA,TotalBacteriaBiomass,610.33,41.44
+AMT,LA,ActinomycetesBiomass,0,0
+AMT,LA,GramNegBiomass,494.43,33.57
+AMT,LA,RhizobiaBiomass,0,0
+AMT,LA,TotalFungiBiomass,207.88,14.12
+AMT,LA,ArbuscularMycorrhizalBiomass,38.73,2.63
+AMT,LA,SaprophytesBiomass,169.15,11.49
+AMT,LA,ProtozoaBiomass,0,0
+AMT,LA,GramPosBiomassA,115.9,7.87
+AMT,LA,UndifferentiatedBiomass,654.43,44.44
+AMT,DA,GramPosBiomass,208.05,9
+AMT,DA,TotalBacteriaBiomass,731.37,31.62
+AMT,DA,ActinomycetesBiomass,28.27,1.22
+AMT,DA,GramNegBiomass,495.05,21.41
+AMT,DA,RhizobiaBiomass,0,0
+AMT,DA,TotalFungiBiomass,174.72,7.56
+AMT,DA,ArbuscularMycorrhizalBiomass,36.72,1.59
+AMT,DA,SaprophytesBiomass,138,5.97
+AMT,DA,ProtozoaBiomass,0,0
+AMT,DA,GramPosBiomassA,236.32,10.22
+AMT,DA,UndifferentiatedBiomass,1406.55,60.82
+AMT,PT,GramPosBiomass,700.75,9.33
+AMT,PT,TotalBacteriaBiomass,2917.78,38.86
+AMT,PT,ActinomycetesBiomass,98.52,1.31
+AMT,PT,GramNegBiomass,2118.52,28.21
+AMT,PT,RhizobiaBiomass,0,0
+AMT,PT,TotalFungiBiomass,1283.74,17.1
+AMT,PT,ArbuscularMycorrhizalBiomass,201.69,2.69
+AMT,PT,SaprophytesBiomass,1082.05,14.41
+AMT,PT,ProtozoaBiomass,0,0
+AMT,PT,GramPosBiomassA,799.27,10.64
+AMT,PT,UndifferentiatedBiomass,3307.27,44.05
+AMT,CL,GramPosBiomass,783.11,8.32
+AMT,CL,TotalBacteriaBiomass,3470.55,36.84
+AMT,CL,ActinomycetesBiomass,110.55,1.17
+AMT,CL,GramNegBiomass,2576.9,27.35
+AMT,CL,RhizobiaBiomass,0,0
+AMT,CL,TotalFungiBiomass,2060.73,21.88
+AMT,CL,ArbuscularMycorrhizalBiomass,209.63,2.23
+AMT,CL,SaprophytesBiomass,1851.1,19.65
+AMT,CL,ProtozoaBiomass,0,0
+AMT,CL,GramPosBiomassA,893.66,9.49
+AMT,CL,UndifferentiatedBiomass,3889.19,41.28
+AMT,MO,GramPosBiomass,535.73,8.89
+AMT,MO,TotalBacteriaBiomass,2450.95,40.64
+AMT,MO,ActinomycetesBiomass,64.72,1.07
+AMT,MO,GramNegBiomass,1850.5,30.69
+AMT,MO,RhizobiaBiomass,0,0
+AMT,MO,TotalFungiBiomass,1200.46,19.91
+AMT,MO,ArbuscularMycorrhizalBiomass,231.11,3.83
+AMT,MO,SaprophytesBiomass,969.36,16.07
+AMT,MO,ProtozoaBiomass,0,0
+AMT,MO,GramPosBiomassA,600.45,9.96
+AMT,MO,UndifferentiatedBiomass,2379,39.45
+JER,LA,GramPosBiomass,477.66,29.21
+JER,LA,TotalBacteriaBiomass,1187.46,72.61
+JER,LA,ActinomycetesBiomass,122.69,7.5
+JER,LA,GramNegBiomass,587.11,35.9
+JER,LA,RhizobiaBiomass,0,0
+JER,LA,TotalFungiBiomass,170.93,10.45
+JER,LA,ArbuscularMycorrhizalBiomass,43.73,2.67
+JER,LA,SaprophytesBiomass,127.2,7.78
+JER,LA,ProtozoaBiomass,0,0
+JER,LA,GramPosBiomassA,600.35,36.71
+JER,LA,UndifferentiatedBiomass,277.1,16.94
+JER,DA,GramPosBiomass,247.27,6.14
+JER,DA,TotalBacteriaBiomass,1797.25,44.67
+JER,DA,ActinomycetesBiomass,35.69,0.89
+JER,DA,GramNegBiomass,1514.29,37.64
+JER,DA,RhizobiaBiomass,0,0
+JER,DA,TotalFungiBiomass,658.66,16.37
+JER,DA,ArbuscularMycorrhizalBiomass,113.13,2.81
+JER,DA,SaprophytesBiomass,545.52,13.56
+JER,DA,ProtozoaBiomass,0,0
+JER,DA,GramPosBiomassA,282.96,7.03
+JER,DA,UndifferentiatedBiomass,1567.63,38.96
+JER,PT,GramPosBiomass,124.38,9.5
+JER,PT,TotalBacteriaBiomass,371.89,28.41
+JER,PT,ActinomycetesBiomass,35.95,2.75
+JER,PT,GramNegBiomass,211.56,16.16
+JER,PT,RhizobiaBiomass,0,0
+JER,PT,TotalFungiBiomass,105.52,8.06
+JER,PT,ArbuscularMycorrhizalBiomass,27.74,2.12
+JER,PT,SaprophytesBiomass,77.78,5.94
+JER,PT,ProtozoaBiomass,0,0
+JER,PT,GramPosBiomassA,160.33,12.25
+JER,PT,UndifferentiatedBiomass,831.69,63.53
+JER,CL,GramPosBiomass,248.5,4.38
+JER,CL,TotalBacteriaBiomass,2163.77,38.08
+JER,CL,ActinomycetesBiomass,73.43,1.29
+JER,CL,GramNegBiomass,1841.83,32.41
+JER,CL,RhizobiaBiomass,0,0
+JER,CL,TotalFungiBiomass,1833.83,32.27
+JER,CL,ArbuscularMycorrhizalBiomass,197.25,3.47
+JER,CL,SaprophytesBiomass,1636.58,28.8
+JER,CL,ProtozoaBiomass,0,0
+JER,CL,GramPosBiomassA,321.93,5.67
+JER,CL,UndifferentiatedBiomass,1684.89,29.65
+JER,MO,GramPosBiomass,402.54,7.2
+JER,MO,TotalBacteriaBiomass,1906.46,34.13
+JER,MO,ActinomycetesBiomass,119.3,2.14
+JER,MO,GramNegBiomass,1384.62,24.79
+JER,MO,RhizobiaBiomass,0,0
+JER,MO,TotalFungiBiomass,614.89,11.01
+JER,MO,ArbuscularMycorrhizalBiomass,113.85,2.04
+JER,MO,SaprophytesBiomass,501.04,8.97
+JER,MO,ProtozoaBiomass,15.5,0.28
+JER,MO,GramPosBiomassA,521.84,9.34
+JER,MO,UndifferentiatedBiomass,3049.31,54.59
+VOL,LA,GramPosBiomass,542.89,8.79
+VOL,LA,TotalBacteriaBiomass,2716.68,43.98
+VOL,LA,ActinomycetesBiomass,98.62,1.6
+VOL,LA,GramNegBiomass,2075.18,33.59
+VOL,LA,RhizobiaBiomass,0,0
+VOL,LA,TotalFungiBiomass,1313.84,21.27
+VOL,LA,ArbuscularMycorrhizalBiomass,173.55,2.81
+VOL,LA,SaprophytesBiomass,1140.29,18.46
+VOL,LA,ProtozoaBiomass,0,0
+VOL,LA,GramPosBiomassA,641.51,10.39
+VOL,LA,UndifferentiatedBiomass,2146.61,34.75
+VOL,DA,GramPosBiomass,118.12,5.48
+VOL,DA,TotalBacteriaBiomass,935.85,43.44
+VOL,DA,ActinomycetesBiomass,8.58,0.4
+VOL,DA,GramNegBiomass,809.15,37.56
+VOL,DA,RhizobiaBiomass,0,0
+VOL,DA,TotalFungiBiomass,465.05,21.59
+VOL,DA,ArbuscularMycorrhizalBiomass,51.22,2.38
+VOL,DA,SaprophytesBiomass,413.83,19.21
+VOL,DA,ProtozoaBiomass,0,0
+VOL,DA,GramPosBiomassA,126.7,5.88
+VOL,DA,UndifferentiatedBiomass,753.24,34.97
+VOL,PT,GramPosBiomass,1182.24,6.91
+VOL,PT,TotalBacteriaBiomass,5852.53,34.23
+VOL,PT,ActinomycetesBiomass,93.99,0.55
+VOL,PT,GramNegBiomass,4576.29,26.76
+VOL,PT,RhizobiaBiomass,0,0
+VOL,PT,TotalFungiBiomass,5542.04,32.41
+VOL,PT,ArbuscularMycorrhizalBiomass,405.68,2.37
+VOL,PT,SaprophytesBiomass,5136.36,30.04
+VOL,PT,ProtozoaBiomass,11.3,0.07
+VOL,PT,GramPosBiomassA,1276.23,7.46
+VOL,PT,UndifferentiatedBiomass,5694.25,33.3
+VOL,CL,GramPosBiomass,459.66,4.91
+VOL,CL,TotalBacteriaBiomass,2748.09,29.31
+VOL,CL,ActinomycetesBiomass,71.6,0.76
+VOL,CL,GramNegBiomass,2216.83,23.64
+VOL,CL,RhizobiaBiomass,0,0
+VOL,CL,TotalFungiBiomass,3824.44,40.79
+VOL,CL,ArbuscularMycorrhizalBiomass,188.19,2.01
+VOL,CL,SaprophytesBiomass,3636.25,38.78
+VOL,CL,ProtozoaBiomass,0,0
+VOL,CL,GramPosBiomassA,531.26,5.67
+VOL,CL,UndifferentiatedBiomass,2802.97,29.9
+VOL,MO,GramPosBiomass,1731.61,6.2
+VOL,MO,TotalBacteriaBiomass,3254.7,11.64
+VOL,MO,ActinomycetesBiomass,102.01,0.36
+VOL,MO,GramNegBiomass,1421.07,5.08
+VOL,MO,RhizobiaBiomass,0,0
+VOL,MO,TotalFungiBiomass,7363.67,26.33
+VOL,MO,ArbuscularMycorrhizalBiomass,342.12,1.22
+VOL,MO,SaprophytesBiomass,7021.55,25.11
+VOL,MO,ProtozoaBiomass,1696.93,6.07
+VOL,MO,GramPosBiomassA,1833.62,6.56
+VOL,MO,UndifferentiatedBiomass,15648.27,55.96
+WHS,LA,GramPosBiomass,408.58,27.44
+WHS,LA,TotalBacteriaBiomass,1088.73,73.13
+WHS,LA,ActinomycetesBiomass,188.86,12.69
+WHS,LA,GramNegBiomass,491.29,33
+WHS,LA,RhizobiaBiomass,0,0
+WHS,LA,TotalFungiBiomass,136.17,9.15
+WHS,LA,ArbuscularMycorrhizalBiomass,0,0
+WHS,LA,SaprophytesBiomass,136.17,9.15
+WHS,LA,ProtozoaBiomass,0,0
+WHS,LA,GramPosBiomassA,597.44,40.13
+WHS,LA,UndifferentiatedBiomass,263.83,17.72
+WHS,DA,GramPosBiomass,553.77,23.88
+WHS,DA,TotalBacteriaBiomass,1651.15,71.22
+WHS,DA,ActinomycetesBiomass,239.45,10.33
+WHS,DA,GramNegBiomass,857.93,37
+WHS,DA,RhizobiaBiomass,0,0
+WHS,DA,TotalFungiBiomass,185.71,8.01
+WHS,DA,ArbuscularMycorrhizalBiomass,0,0
+WHS,DA,SaprophytesBiomass,185.71,8.01
+WHS,DA,ProtozoaBiomass,0,0
+WHS,DA,GramPosBiomassA,793.22,34.21
+WHS,DA,UndifferentiatedBiomass,481.68,20.78
+WHS,PT,GramPosBiomass,501.32,24.2
+WHS,PT,TotalBacteriaBiomass,1410.76,68.1
+WHS,PT,ActinomycetesBiomass,120.78,5.83
+WHS,PT,GramNegBiomass,788.66,38.07
+WHS,PT,RhizobiaBiomass,0,0
+WHS,PT,TotalFungiBiomass,309.14,14.92
+WHS,PT,ArbuscularMycorrhizalBiomass,18.53,0.89
+WHS,PT,SaprophytesBiomass,290.6,14.03
+WHS,PT,ProtozoaBiomass,0,0
+WHS,PT,GramPosBiomassA,622.1,30.03
+WHS,PT,UndifferentiatedBiomass,351.69,16.98
+WHS,CL,GramPosBiomass,801.88,21.72
+WHS,CL,TotalBacteriaBiomass,2451.19,66.41
+WHS,CL,ActinomycetesBiomass,288.62,7.82
+WHS,CL,GramNegBiomass,1360.69,36.86
+WHS,CL,RhizobiaBiomass,0,0
+WHS,CL,TotalFungiBiomass,853.95,23.14
+WHS,CL,ArbuscularMycorrhizalBiomass,182.15,4.93
+WHS,CL,SaprophytesBiomass,671.81,18.2
+WHS,CL,ProtozoaBiomass,6.87,0.19
+WHS,CL,GramPosBiomassA,1090.5,29.54
+WHS,CL,UndifferentiatedBiomass,379.13,10.27
+WHS,MO,GramPosBiomass,1273.78,27.34
+WHS,MO,TotalBacteriaBiomass,3098.61,66.53
+WHS,MO,ActinomycetesBiomass,326.4,7.01
+WHS,MO,GramNegBiomass,1498.42,32.17
+WHS,MO,RhizobiaBiomass,0,0
+WHS,MO,TotalFungiBiomass,715.9,15.37
+WHS,MO,ArbuscularMycorrhizalBiomass,165.24,3.55
+WHS,MO,SaprophytesBiomass,550.66,11.82
+WHS,MO,ProtozoaBiomass,56.92,1.22
+WHS,MO,GramPosBiomassA,1600.18,34.35
+WHS,MO,UndifferentiatedBiomass,786.4,16.88
+AMT,LA,Total Biomass,1472.64,
+AMT,LA,DiversityIndex,1.051,
+AMT,LA,Fungi:Bacteria,0.3406,
+AMT,LA,Predator:Prey,ALL PREY,
+AMT,LA,Gram(+):Gram(-),0.2344,
+AMT,LA,Sat:Unsat,0.8482,
+AMT,LA,Mono:Poly,11.4802,
+AMT,LA,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+AMT,LA,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+AMT,DA,Total Biomass,2312.65,
+AMT,DA,DiversityIndex,1.193,
+AMT,DA,Fungi:Bacteria,0.2389,
+AMT,DA,Predator:Prey,ALL PREY,
+AMT,DA,Gram(+):Gram(-),0.4774,
+AMT,DA,Sat:Unsat,2.0022,
+AMT,DA,Mono:Poly,11.9668,
+AMT,DA,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+AMT,DA,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+AMT,PT,Total Biomass,7508.81,
+AMT,PT,DiversityIndex,1.227,
+AMT,PT,Fungi:Bacteria,0.44,
+AMT,PT,Predator:Prey,ALL PREY,
+AMT,PT,Gram(+):Gram(-),0.3773,
+AMT,PT,Sat:Unsat,0.923,
+AMT,PT,Mono:Poly,7.7217,
+AMT,PT,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+AMT,PT,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+AMT,CL,Total Biomass,9420.47,
+AMT,CL,DiversityIndex,1.201,
+AMT,CL,Fungi:Bacteria,0.5938,
+AMT,CL,Predator:Prey,ALL PREY,
+AMT,CL,Gram(+):Gram(-),0.3468,
+AMT,CL,Sat:Unsat,0.8524,
+AMT,CL,Mono:Poly,3.3676,
+AMT,CL,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+AMT,CL,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+AMT,MO,Total Biomass,6030.42,
+AMT,MO,DiversityIndex,1.224,
+AMT,MO,Fungi:Bacteria,0.4898,
+AMT,MO,Predator:Prey,ALL PREY,
+AMT,MO,Gram(+):Gram(-),0.3245,
+AMT,MO,Sat:Unsat,0.7071,
+AMT,MO,Mono:Poly,4.8815,
+AMT,MO,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+AMT,MO,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+JER,LA,Total Biomass,1635.48,
+JER,LA,DiversityIndex,1.28,
+JER,LA,Fungi:Bacteria,0.1439,
+JER,LA,Predator:Prey,ALL PREY,
+JER,LA,Gram(+):Gram(-),1.0226,
+JER,LA,Sat:Unsat,3.5021,
+JER,LA,Mono:Poly,ALL MONO,
+JER,LA,Pre 16:1w7c:cy17:0,NONE FOUND,
+JER,LA,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+JER,DA,Total Biomass,4023.55,
+JER,DA,DiversityIndex,1.067,
+JER,DA,Fungi:Bacteria,0.3665,
+JER,DA,Predator:Prey,ALL PREY,
+JER,DA,Gram(+):Gram(-),0.1869,
+JER,DA,Sat:Unsat,0.5764,
+JER,DA,Mono:Poly,11.5144,
+JER,DA,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+JER,DA,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+JER,PT,Total Biomass,1309.09,
+JER,PT,DiversityIndex,1.367,
+JER,PT,Fungi:Bacteria,0.2837,
+JER,PT,Predator:Prey,ALL PREY,
+JER,PT,Gram(+):Gram(-),0.7579,
+JER,PT,Sat:Unsat,2.2464,
+JER,PT,Mono:Poly,15.4441,
+JER,PT,Pre 16:1w7c:cy17:0,NONE FOUND,
+JER,PT,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+JER,CL,Total Biomass,5682.48,
+JER,CL,DiversityIndex,1.117,
+JER,CL,Fungi:Bacteria,0.8475,
+JER,CL,Predator:Prey,ALL PREY,
+JER,CL,Gram(+):Gram(-),0.1748,
+JER,CL,Sat:Unsat,0.3912,
+JER,CL,Mono:Poly,3.4476,
+JER,CL,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+JER,CL,Pre 18:1w7c:cy19:0,249.084,
+JER,MO,Total Biomass,5586.15,
+JER,MO,DiversityIndex,1.257,
+JER,MO,Fungi:Bacteria,0.3225,
+JER,MO,Predator:Prey,0.0081,
+JER,MO,Gram(+):Gram(-),0.3769,
+JER,MO,Sat:Unsat,1.0826,
+JER,MO,Mono:Poly,9.0215,
+JER,MO,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+JER,MO,Pre 18:1w7c:cy19:0,48.689,
+VOL,LA,Total Biomass,6177.13,
+VOL,LA,DiversityIndex,1.195,
+VOL,LA,Fungi:Bacteria,0.4836,
+VOL,LA,Predator:Prey,ALL PREY,
+VOL,LA,Gram(+):Gram(-),0.3091,
+VOL,LA,Sat:Unsat,0.5797,
+VOL,LA,Mono:Poly,6.1222,
+VOL,LA,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+VOL,LA,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+VOL,DA,Total Biomass,2154.13,
+VOL,DA,DiversityIndex,1.038,
+VOL,DA,Fungi:Bacteria,0.4969,
+VOL,DA,Predator:Prey,ALL PREY,
+VOL,DA,Gram(+):Gram(-),0.1566,
+VOL,DA,Sat:Unsat,0.5658,
+VOL,DA,Mono:Poly,4.632,
+VOL,DA,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+VOL,DA,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+VOL,PT,Total Biomass,17100.12,
+VOL,PT,DiversityIndex,1.126,
+VOL,PT,Fungi:Bacteria,0.9469,
+VOL,PT,Predator:Prey,0.0019,
+VOL,PT,Gram(+):Gram(-),0.2789,
+VOL,PT,Sat:Unsat,0.5145,
+VOL,PT,Mono:Poly,4.6667,
+VOL,PT,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+VOL,PT,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+VOL,CL,Total Biomass,9375.5,
+VOL,CL,DiversityIndex,1.031,
+VOL,CL,Fungi:Bacteria,1.3917,
+VOL,CL,Predator:Prey,ALL PREY,
+VOL,CL,Gram(+):Gram(-),0.2397,
+VOL,CL,Sat:Unsat,0.441,
+VOL,CL,Mono:Poly,1.8228,
+VOL,CL,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+VOL,CL,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+VOL,MO,Total Biomass,27963.58,
+VOL,MO,DiversityIndex,1.258,
+VOL,MO,Fungi:Bacteria,2.2625,
+VOL,MO,Predator:Prey,0.5214,
+VOL,MO,Gram(+):Gram(-),1.2903,
+VOL,MO,Sat:Unsat,0.6496,
+VOL,MO,Mono:Poly,1.5189,
+VOL,MO,Pre 16:1w7c:cy17:0,ALL PRE 16:1,
+VOL,MO,Pre 18:1w7c:cy19:0,ALL CYCLO 19:0,
+WHS,LA,Total Biomass,1488.73,
+WHS,LA,DiversityIndex,1.265,
+WHS,LA,Fungi:Bacteria,0.1251,
+WHS,LA,Predator:Prey,ALL PREY,
+WHS,LA,Gram(+):Gram(-),1.2161,
+WHS,LA,Sat:Unsat,3.1408,
+WHS,LA,Mono:Poly,231.255,
+WHS,LA,Pre 16:1w7c:cy17:0,NONE FOUND,
+WHS,LA,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+WHS,DA,Total Biomass,2318.55,
+WHS,DA,DiversityIndex,1.214,
+WHS,DA,Fungi:Bacteria,0.1125,
+WHS,DA,Predator:Prey,ALL PREY,
+WHS,DA,Gram(+):Gram(-),0.9246,
+WHS,DA,Sat:Unsat,2.0555,
+WHS,DA,Mono:Poly,115.795,
+WHS,DA,Pre 16:1w7c:cy17:0,NONE FOUND,
+WHS,DA,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+WHS,PT,Total Biomass,2071.59,
+WHS,PT,DiversityIndex,1.253,
+WHS,PT,Fungi:Bacteria,0.2191,
+WHS,PT,Predator:Prey,ALL PREY,
+WHS,PT,Gram(+):Gram(-),0.7888,
+WHS,PT,Sat:Unsat,2.6496,
+WHS,PT,Mono:Poly,18.3615,
+WHS,PT,Pre 16:1w7c:cy17:0,NONE FOUND,
+WHS,PT,Pre 18:1w7c:cy19:0,ALL PRE 18:1,
+WHS,CL,Total Biomass,3691.13,
+WHS,CL,DiversityIndex,1.417,
+WHS,CL,Fungi:Bacteria,0.3484,
+WHS,CL,Predator:Prey,0.0028,
+WHS,CL,Gram(+):Gram(-),0.8014,
+WHS,CL,Sat:Unsat,16.6018,
+WHS,CL,Mono:Poly,9.4458,
+WHS,CL,Pre 16:1w7c:cy17:0,NONE FOUND,
+WHS,CL,Pre 18:1w7c:cy19:0,244.478,
+WHS,MO,Total Biomass,4657.81,
+WHS,MO,DiversityIndex,1.416,
+WHS,MO,Fungi:Bacteria,0.231,
+WHS,MO,Predator:Prey,0.0184,
+WHS,MO,Gram(+):Gram(-),1.0679,
+WHS,MO,Sat:Unsat,19.0984,
+WHS,MO,Mono:Poly,14.8257,
+WHS,MO,Pre 16:1w7c:cy17:0,NONE FOUND,
+WHS,MO,Pre 18:1w7c:cy19:0,74.7297,
